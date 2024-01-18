@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141355026946",
+    "project_id": "vnptapp-c777c",
+    "storage_bucket": "vnptapp-c777c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141355026946:android:8c5797307070c51c9f351b",
+        "android_client_info": {
+          "package_name": "com.example.vnptapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDosCcGzmcCvPVTw7GPTMWaVs7B-owSaxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
